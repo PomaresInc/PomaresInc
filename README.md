@@ -27,29 +27,24 @@ Me especializo en desarrollo web, backend y cloud. Siempre buscando nuevos retos
 
 <h3 align="left">Tecnologías y herramientas favoritas</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" title="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook" title="Storybook" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL" title="GraphQL" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" title="Go" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust" title="Rust" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" title="NestJS" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="Amazon Web Services" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin Multiplatform" title="Kotlin Multiplatform" />
 </p>
 
 ---
 
 <h3 align="left">Conecta conmigo</h3>
 <p>
-  <a href="mailto:tuemail@gmail.com" target="_blank">
+  <a href="mailto:javierpomaresgomez@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail" />
   </a>
   <a href="https://discord.com/users/tuusuario" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="Discord" />
   </a>
-  <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
+  <a href="https://www.linkedin.com/in/javier-pomares-gómez-55a725276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
   </a>
   <a href="https://t.me/tuusuario" target="_blank">
