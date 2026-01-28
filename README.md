@@ -11,10 +11,10 @@ Me especializo en el desarrollo backend y multiplataforma, utilizando herramient
 ---
 
 <h2 align="left"> Estadísticas de GitHub</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pomares&show_icons=true&theme=radical" alt="Pomares's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pomares&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LilShineGang&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilShineGang&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" height="160" alt="languages graph" />
+</div>
 
 ---
 
